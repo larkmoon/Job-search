@@ -4,7 +4,8 @@
 
 ### 프론트엔드 개발자
 
-- [채용 공고 분석](https://github.com/larkmoon/Job-search/blob/master/Job%20search.md)
+- [채용 공고 모음](https://github.com/larkmoon/Job-search/blob/master/Job%20search.md)
+- [자기소개서 문항 모음](https://github.com/larkmoon/Job-search/blob/master/Job%20Application%20Questions_Front-end.md)
 
 
 
@@ -23,3 +24,13 @@
 - 클린 코드 작성을 위한 노력
 - 테스트 코드 작성 경험
 - 반응형 디자인, 웹 표준, 웹 접근성을 고려한 UI 개발 경험
+
+
+
+#### 자기소개서 
+
+- 자유 형식 자기소개서, 포트폴리오, 경력기술서
+  - 자기소개: 자신의 기술력과 열정을 보여줄 수 있는 활동사항, 보유 프로그래밍 스킬, 앞으로 어떤 개발 분야에서 성장하고 싶은지, 지금까지의 노력, 자사 서비스 활용 경험
+- 프로젝트 중 가장 난이도가 높았던 상황을 해결한 경험(트러블슈팅 경험)
+- 프론트엔드 개발자로서 자신의 강점이 무엇인지 경력 기반으로 작성
+
