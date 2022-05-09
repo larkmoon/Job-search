@@ -4,7 +4,7 @@
 
 ### 프론트엔드 개발자
 
-- [채용 공고 분석](https://github.com/larkmoon/Job-search/blob/master/Job%20search.md)
+- [채용 공고 분석](https://github.com/larkmoon/Job-search/blob/master/Front-end.md)
 
 
 
